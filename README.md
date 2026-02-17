@@ -137,7 +137,7 @@ Financial-Performance-Analytics/
 │
 ├── README.md
 ├── Project_Report.pdf
-├── Finance_Analytics_Dashboard.xlsx
+├── Finance_Analytics_Dashboard.xlsx [Download Excel Workbook](https://docs.google.com/spreadsheets/d/1nljkq_vyxvwYpbYNhymKR7jWiltRR4gE/edit?usp=sharing&ouid=113270886502859747924&rtpof=true&sd=true) (Uploaded on Google Drive due to large file size)
 ├── Data_Model_Architecture.png
 ├── DAX_Measures.png
 ├── Screenshots/
