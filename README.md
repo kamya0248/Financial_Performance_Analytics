@@ -3,6 +3,10 @@
 Power Query | Power Pivot | P&L Modeling | Gross Margin Analysis
 
 ---
+## Link to main Excel Workbook (Financial_Analytics_Dashboard.xlsx)
+
+[Download Excel Workbook](https://docs.google.com/spreadsheets/d/1nljkq_vyxvwYpbYNhymKR7jWiltRR4gE/edit?usp=sharing&ouid=113270886502859747924&rtpof=true&sd=true) (Note: This project uses Excel data model and slicers.
+For full functionality, please download and open in Microsoft Excel.)
 
 ## Project Overview
 
@@ -145,6 +149,4 @@ Financial-Performance-Analytics/
 
 ---
 
-## Link to main Excel Workbook (Financial_Analytics_Dashboard.xlsx)
 
-[Download Excel Workbook](https://docs.google.com/spreadsheets/d/1nljkq_vyxvwYpbYNhymKR7jWiltRR4gE/edit?usp=sharing&ouid=113270886502859747924&rtpof=true&sd=true) (Note: Uploaded on Google Drive due to large file size, please download it as an Excel file for full functionality)
